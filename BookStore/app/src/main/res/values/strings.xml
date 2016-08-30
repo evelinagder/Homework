@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BookStore</string>
+    <string-array name="currency">
+        <item>BGN</item>
+        <item>EUR</item>
+        <item>USD</item>
+
+    </string-array>
+
+
+</resources>
